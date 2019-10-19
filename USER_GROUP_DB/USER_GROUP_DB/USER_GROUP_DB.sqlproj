@@ -61,6 +61,8 @@
   </ItemGroup>
   <ItemGroup>
     <Build Include="Tables\PERSON.sql" />
+    <Build Include="Tables\MEETING.sql" />
+    <Build Include="Tables\SPEAKER.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="USER_GROUP_DB.publish.xml" />
